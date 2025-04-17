@@ -1,4 +1,4 @@
-*Chess Engine*
+**Chess Engine**
 
 This basic chess game allows you to play from the terminal. 
 
